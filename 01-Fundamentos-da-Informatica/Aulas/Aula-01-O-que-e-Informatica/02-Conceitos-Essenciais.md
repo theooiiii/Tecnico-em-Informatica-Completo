@@ -402,20 +402,3 @@ Eles não possuem consciência.
 > São seus dados.
 >
 > Empresas como Google, Microsoft, Amazon e Meta investem bilhões de dólares todos os anos para armazenar, proteger e processar informações.
-
----
-
-# 🔜 Continuação
-
-Nos próximos tópicos deste capítulo estudaremos:
-
-- representação digital;
-- bits;
-- bytes;
-- sistema binário;
-- unidades de armazenamento;
-- ciclo completo do processamento da informação;
-- exemplos detalhados em hospitais, bancos, escolas, redes sociais e comércio eletrônico;
-- exercícios interativos durante a leitura.
-
-```
