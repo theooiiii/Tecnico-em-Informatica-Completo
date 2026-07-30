@@ -5,7 +5,7 @@
 >
 > **Aula:** 01 — O que é Informática
 >
-> **Arquivo:** `07-Boas-Praticas.md`
+> **Arquivo:** `08-Boas-Praticas.md`
 
 ---
 
