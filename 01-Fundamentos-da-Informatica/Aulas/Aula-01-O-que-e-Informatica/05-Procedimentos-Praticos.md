@@ -228,28 +228,18 @@ As informações são gravadas no prontuário eletrônico.
 
 ```mermaid
 flowchart TD
+    A[Paciente]
+    B[Recepção]
+    C[Sistema]
+    D[Banco de Dados]
+    E[Prontuário]
+    F[Médico]
 
-Paciente
-
--->
-
-Recepção
-
--->
-
-Sistema
-
--->
-
-Banco de Dados
-
--->
-
-Prontuário
-
--->
-
-Médico
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
 ```
 
 ---
