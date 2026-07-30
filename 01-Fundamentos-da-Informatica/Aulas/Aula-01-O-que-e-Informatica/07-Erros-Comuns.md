@@ -416,7 +416,7 @@ Ao longo da carreira de um Técnico em Informática, desenvolver a capacidade de
 
 Profissionais de excelência não apenas resolvem problemas: eles trabalham para impedir que esses problemas aconteçam.
 
-> [!SUCCESS]
+> [!TIP]
 >
 > Você concluiu o estudo dos erros mais comuns na utilização de sistemas computacionais.
 >
