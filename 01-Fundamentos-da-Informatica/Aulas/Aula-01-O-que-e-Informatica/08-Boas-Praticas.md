@@ -1,349 +1,516 @@
-# 💡 Curiosidades e Fatos Históricos da Informática
+# ✅ Boas Práticas na Utilização de Sistemas Computacionais
 
 > [!IMPORTANT]
 > **Módulo:** 01 — Fundamentos da Informática
 >
 > **Aula:** 01 — O que é Informática
 >
-> **Arquivo:** `08-Curiosidades.md`
+> **Arquivo:** `07-Boas-Praticas.md`
 
 ---
 
 # 📖 Introdução
 
-A informática evoluiu em uma velocidade impressionante.
+Saber utilizar um computador vai muito além de ligar a máquina e abrir programas.
 
-Em pouco mais de meio século, passamos de computadores que ocupavam salas inteiras para dispositivos que cabem no bolso e possuem poder de processamento milhares de vezes superior.
+Um bom profissional de Tecnologia da Informação precisa desenvolver hábitos que garantam:
 
-Essa evolução não aconteceu de forma repentina.
+- segurança;
+- organização;
+- eficiência;
+- confiabilidade;
+- disponibilidade das informações.
 
-Ela foi construída por milhares de cientistas, engenheiros, matemáticos e pesquisadores que contribuíram para transformar a tecnologia no que conhecemos atualmente.
+Esses hábitos são conhecidos como **boas práticas**.
 
-Neste capítulo conheceremos curiosidades, acontecimentos históricos e fatos interessantes que ajudam a compreender como a informática evoluiu ao longo do tempo.
+Embora muitas pareçam simples, elas fazem grande diferença na prevenção de problemas, na produtividade e na proteção de equipamentos e dados.
+
+Neste capítulo conheceremos as principais boas práticas utilizadas por profissionais da área de TI e que devem ser adotadas desde o primeiro contato com um sistema computacional.
 
 ---
 
-# 🎯 Objetivos
+# 🎯 Objetivos de aprendizagem
 
 Ao concluir este capítulo você será capaz de:
 
-- conhecer marcos históricos da informática;
-- compreender como os computadores evoluíram;
-- identificar tecnologias que transformaram a sociedade;
-- relacionar fatos históricos com os computadores atuais.
+- compreender a importância das boas práticas;
+- utilizar computadores de forma segura;
+- organizar arquivos corretamente;
+- proteger informações importantes;
+- identificar comportamentos que evitam falhas;
+- desenvolver hábitos utilizados por profissionais de TI.
 
 ---
 
-# ⏳ Uma breve linha do tempo
+# 🤔 O que são boas práticas?
 
-```mermaid
-timeline
-    title Evolução da Informática
+Boas práticas são procedimentos recomendados que reduzem riscos e aumentam a eficiência durante a utilização de um sistema computacional.
 
-    1946 : ENIAC
-    1950 : Computadores comerciais
-    1971 : Primeiro microprocessador
-    1981 : IBM PC
-    1991 : World Wide Web
-    2007 : Smartphones modernos
-    2010 : Computação em Nuvem
-    2020 : Popularização da Inteligência Artificial
-```
+Essas recomendações foram desenvolvidas com base em experiências acumuladas por profissionais da área e são adotadas em empresas, órgãos públicos, hospitais, instituições financeiras e centros de tecnologia.
 
----
-
-# 🧮 Antes dos computadores
-
-Muito antes da existência dos computadores eletrônicos, as pessoas já buscavam formas de facilitar cálculos.
-
-Alguns exemplos foram:
-
-- ábaco;
-- réguas de cálculo;
-- calculadoras mecânicas;
-- máquinas de tabulação.
-
-Esses equipamentos não eram computadores como conhecemos hoje, mas representam importantes etapas da evolução da computação.
-
----
-
-# 🏛️ O ENIAC
-
-Um dos computadores mais famosos da história foi o **ENIAC**, apresentado em 1946.
-
-Algumas características impressionam até hoje.
-
-| Característica | Valor aproximado |
-|----------------|-----------------:|
-| Peso | 30 toneladas |
-| Área ocupada | Cerca de 170 m² |
-| Válvulas eletrônicas | Mais de 17.000 |
-| Consumo elétrico | Aproximadamente 150 kW |
-
-Apesar dessas dimensões, seu poder de processamento era inferior ao de um smartphone moderno.
+Seguir boas práticas significa trabalhar de forma mais organizada, segura e profissional.
 
 ---
 
 > [!NOTE]
 >
-> O ENIAC era programado por meio de cabos e chaves físicas. Alterar uma tarefa podia levar horas.
+> Muitos problemas de informática não são causados por defeitos no computador, mas por erros de utilização.
 
 ---
 
-# 💾 Os primeiros discos rígidos
+# 🖥️ Utilize o computador corretamente
 
-Os primeiros discos rígidos eram enormes.
+O primeiro passo é utilizar o equipamento de maneira adequada.
 
-Um dos exemplos mais conhecidos é o **IBM 350**, lançado em 1956.
+Algumas recomendações incluem:
 
-Ele armazenava aproximadamente **5 MB**.
-
-Hoje, uma única fotografia feita por um smartphone pode ocupar mais espaço do que isso.
-
----
-
-## Comparação
-
-| Tecnologia | Capacidade aproximada |
-|-------------|----------------------:|
-| IBM 350 (1956) | 5 MB |
-| Pendrive atual | 64 GB |
-| SSD moderno | 1 TB |
-| Servidores corporativos | Centenas de TB ou mais |
+- ligar e desligar corretamente o computador;
+- evitar desligamentos forçados;
+- não remover dispositivos durante gravações;
+- manter o ambiente limpo;
+- utilizar estabilização elétrica quando necessário.
 
 ---
 
-# 🧠 O primeiro microprocessador
+## ❌ Desligamento incorreto
 
-Em 1971 foi lançado o **Intel 4004**, considerado o primeiro microprocessador comercial.
+Desligar um computador retirando diretamente o cabo de energia pode causar:
 
-Ele possuía:
+- perda de arquivos;
+- corrupção do sistema operacional;
+- danos ao disco durante gravações;
+- falhas na inicialização.
 
-- 4 bits;
-- cerca de 2.300 transistores;
-- frequência de aproximadamente 740 kHz.
-
-Hoje, processadores modernos possuem **bilhões de transistores** e executam bilhões de operações por segundo.
-
----
-
-# 💻 O computador pessoal
-
-Durante muitos anos, computadores eram utilizados apenas por governos, universidades e grandes empresas.
-
-Com o lançamento do **IBM PC** em 1981, os computadores pessoais começaram a se popularizar.
-
-Isso abriu caminho para o desenvolvimento de programas, jogos e sistemas voltados ao usuário comum.
+Sempre utilize o procedimento correto de desligamento do sistema operacional.
 
 ---
 
-# 🌐 O nascimento da Web
+# 📂 Organização de arquivos
 
-Em 1991, a **World Wide Web (WWW)** foi disponibilizada ao público.
+Uma boa organização facilita o trabalho e reduz o risco de perda de informações.
 
-A Web tornou muito mais simples acessar informações pela Internet.
+Imagine procurar um documento importante em uma pasta contendo milhares de arquivos sem qualquer organização.
 
-É importante destacar que:
+Provavelmente levará muito tempo.
 
-- **Internet** é a infraestrutura de redes.
-- **Web** é um dos serviços que funciona sobre essa infraestrutura.
+---
 
-Essa diferença costuma gerar bastante confusão.
+## ✔️ Recomendações
+
+Crie pastas organizadas.
+
+Exemplo:
+
+```text
+Documentos
+│
+├── Estudos
+│   ├── Informática
+│   ├── Redes
+│   └── Programação
+│
+├── Trabalho
+│
+├── Projetos
+│
+└── Financeiro
+```
+
+---
+
+## ✔️ Utilize nomes descritivos
+
+Evite nomes como:
+
+```
+arquivo1.docx
+
+novo.pdf
+
+teste.txt
+
+documento2.docx
+```
+
+Prefira:
+
+```
+Relatorio_Final_Maio_2026.pdf
+
+Projeto_Web_Versao_2.docx
+
+Aula_Informática_Introducao.md
+```
 
 ---
 
 > [!TIP]
 >
-> Toda Web utiliza a Internet, mas nem toda a Internet é composta apenas pela Web.
+> Um nome bem escolhido permite identificar rapidamente o conteúdo de um arquivo.
 
 ---
 
-# 📱 O smartphone é mais poderoso do que parece
+# 💾 Faça backups regularmente
 
-Os smartphones atuais concentram diversas tecnologias em um único equipamento.
+Todo dispositivo de armazenamento pode falhar.
 
-Eles possuem:
+Por esse motivo, nunca mantenha arquivos importantes em apenas um local.
 
-- processador;
-- memória RAM;
-- armazenamento;
-- câmera;
-- GPS;
-- acelerômetro;
-- giroscópio;
-- sensores de proximidade;
-- Wi-Fi;
-- Bluetooth;
-- NFC.
-
-Há poucas décadas seria necessário utilizar vários equipamentos diferentes para obter essas mesmas funcionalidades.
+Um backup é uma cópia de segurança dos dados.
 
 ---
 
-# 🚀 A Lei de Moore
+## Estratégia 3-2-1
 
-Durante muitos anos observou-se que a quantidade de transistores em um chip tendia a dobrar em intervalos regulares, aumentando significativamente o desempenho dos processadores.
+Uma das estratégias mais utilizadas na área de TI é a regra **3-2-1**.
 
-Essa observação ficou conhecida como **Lei de Moore**.
+Ela recomenda:
 
-Embora o ritmo tenha desacelerado com o avanço tecnológico, ela influenciou profundamente a evolução da indústria da computação.
-
----
-
-# ☁️ A era da Computação em Nuvem
-
-Antigamente era comum armazenar arquivos apenas no computador.
-
-Hoje, muitos documentos permanecem armazenados em servidores distribuídos ao redor do mundo.
-
-Isso permite:
-
-- acesso remoto;
-- sincronização entre dispositivos;
-- colaboração em tempo real;
-- maior disponibilidade.
-
----
-
-# 🤖 Inteligência Artificial
-
-A Inteligência Artificial deixou de ser apenas um tema da ficção científica.
-
-Ela já está presente em:
-
-- mecanismos de busca;
-- tradutores automáticos;
-- reconhecimento facial;
-- assistentes virtuais;
-- sistemas de recomendação;
-- diagnósticos médicos;
-- geração de imagens;
-- geração de texto.
-
-Apesar do avanço, a IA depende de grandes volumes de dados e de algoritmos desenvolvidos por pessoas.
-
----
-
-# 🛰️ Satélites e GPS
-
-Quando um aplicativo informa sua localização, ele utiliza sinais enviados por satélites em órbita da Terra.
-
-O receptor calcula sua posição comparando o tempo de chegada dos sinais provenientes de diferentes satélites.
-
-Esse processo ocorre em poucos segundos.
-
----
-
-# 🎮 A evolução dos jogos
-
-Os primeiros jogos eletrônicos possuíam gráficos extremamente simples.
-
-Hoje é possível encontrar jogos com:
-
-- iluminação em tempo real;
-- inteligência artificial avançada;
-- física complexa;
-- mundos abertos;
-- interação online com milhões de jogadores.
-
-Essa evolução foi possível graças ao aumento do poder computacional.
-
----
-
-# 🌎 Data Centers
-
-Quando você utiliza um serviço online, seus dados normalmente não estão armazenados em seu computador.
-
-Eles ficam em grandes centros de processamento chamados **Data Centers**.
-
-Essas instalações podem conter milhares de servidores funcionando continuamente.
+- manter **3 cópias** dos arquivos;
+- utilizar **2 tipos diferentes de armazenamento**;
+- manter **1 cópia em outro local**.
 
 ```mermaid
 flowchart LR
-    A[Usuário]
-    --> B[Internet]
-    --> C[Data Center]
-    --> D[Servidores]
-    --> E[Banco de Dados]
+    A[Arquivo Original]
+    --> B[Backup Local]
+
+    A
+    --> C[Backup em Nuvem]
+
+    A
+    --> D[HD Externo]
 ```
 
 ---
 
-# 🔢 Curiosidades rápidas
+## Exemplos de backup
 
-## 📌 Você sabia?
-
-- Um computador entende apenas números em formato binário.
-- Um único processador pode executar bilhões de instruções por segundo.
-- A maioria dos computadores utiliza relógios internos para sincronizar operações.
-- O primeiro "bug" documentado da computação foi causado por um inseto preso em um equipamento eletromecânico.
-- Um endereço de Internet é convertido automaticamente em um endereço IP por sistemas chamados **DNS**.
-- Muitos serviços online utilizam centenas ou milhares de servidores trabalhando em conjunto.
-
----
-
-# 📊 Comparação entre ontem e hoje
-
-| Característica | Décadas atrás | Atualmente |
-|----------------|---------------|------------|
-| Tamanho | Salas inteiras | Dispositivos de bolso |
-| Armazenamento | Megabytes | Terabytes |
-| Processamento | Milhares de operações por segundo | Bilhões de operações por segundo |
-| Comunicação | Limitada | Global e instantânea |
-| Acesso | Restrito | Amplamente disponível |
+- HD Externo
+- SSD Externo
+- Pen Drive
+- NAS
+- Google Drive
+- OneDrive
+- Dropbox
 
 ---
 
-# 🌍 A informática no cotidiano
+# 🔒 Proteja suas senhas
 
-É difícil passar um dia inteiro sem utilizar algum sistema computacional.
+Uma senha fraca representa um dos maiores riscos para qualquer sistema.
 
-Pense em atividades como:
+Evite utilizar:
 
-- desbloquear o celular;
-- utilizar redes sociais;
-- consultar o clima;
-- assistir a um vídeo;
-- fazer compras online;
-- pagar contas;
-- chamar um transporte por aplicativo.
-
-Todas essas ações dependem diretamente da informática.
+- datas de nascimento;
+- sequências numéricas;
+- nome próprio;
+- telefone;
+- CPF.
 
 ---
 
-# 🧠 Desafio
+## Exemplo ruim
 
-Observe sua rotina de hoje.
-
-Faça uma lista de todos os momentos em que você utilizou algum sistema computacional.
-
-Ao final do dia, conte quantas vezes isso aconteceu.
-
-É bastante comum que esse número ultrapasse dezenas de interações.
+```
+123456
+```
 
 ---
 
-# 📚 Você sabia?
+## Exemplo ruim
+
+```
+senha123
+```
+
+---
+
+## Exemplo melhor
+
+```
+C4f3!Rio#2026
+```
+
+---
+
+## Características de uma boa senha
+
+- letras maiúsculas;
+- letras minúsculas;
+- números;
+- caracteres especiais;
+- tamanho adequado;
+- difícil de adivinhar.
+
+---
+
+> [!WARNING]
+>
+> Nunca compartilhe suas senhas com outras pessoas.
+
+---
+
+# 🔐 Utilize autenticação em dois fatores
+
+Sempre que possível, habilite a autenticação em dois fatores (2FA).
+
+Além da senha, será necessária uma segunda confirmação.
+
+Exemplos:
+
+- código enviado ao celular;
+- aplicativo autenticador;
+- chave física;
+- biometria.
+
+Isso reduz significativamente o risco de acesso não autorizado.
+
+---
+
+# 🦠 Mantenha o computador protegido
+
+Utilize ferramentas de segurança.
+
+Exemplos:
+
+- antivírus;
+- firewall;
+- atualizações automáticas;
+- filtros contra phishing.
+
+Essas ferramentas ajudam a proteger o sistema contra ameaças conhecidas.
+
+---
+
+# 🔄 Mantenha o sistema atualizado
+
+Atualizações corrigem:
+
+- falhas;
+- vulnerabilidades;
+- erros;
+- problemas de desempenho.
+
+Também podem adicionar novos recursos.
+
+---
+
+## O que deve ser atualizado?
+
+- sistema operacional;
+- navegadores;
+- aplicativos;
+- drivers;
+- antivírus.
+
+---
+
+# 🌐 Navegue com responsabilidade
+
+Nem todo site é confiável.
+
+Antes de fornecer informações pessoais, observe:
+
+- endereço do site;
+- certificado HTTPS;
+- reputação da empresa;
+- erros de ortografia;
+- aparência suspeita.
+
+---
+
+## Exemplo
+
+```
+https://www.banco.com.br
+```
+
+É diferente de:
+
+```
+https://banco-seguro-login.xyz
+```
+
+Mesmo que pareçam semelhantes.
+
+---
+
+# 📧 Cuidado com golpes
+
+Golpes digitais normalmente utilizam engenharia social.
+
+Objetivo:
+
+Convencer o usuário a fornecer informações.
+
+Alguns exemplos:
+
+- falsas promoções;
+- boletos falsos;
+- mensagens de bancos;
+- e-mails fraudulentos;
+- falsas centrais de atendimento.
+
+---
+
+# 🧹 Mantenha o ambiente organizado
+
+Boas práticas também envolvem o ambiente físico.
+
+Evite:
+
+- excesso de poeira;
+- líquidos próximos ao computador;
+- cabos desorganizados;
+- ventilação bloqueada.
+
+---
+
+```mermaid
+flowchart LR
+    A[Ambiente Limpo]
+    --> B[Menor Aquecimento]
+    --> C[Maior Vida Útil]
+```
+
+---
+
+# ⚡ Utilize energia elétrica de forma segura
+
+Problemas elétricos podem causar danos aos equipamentos.
+
+Sempre que possível:
+
+- utilize filtros de linha de qualidade;
+- mantenha o aterramento adequado;
+- evite sobrecarga em tomadas;
+- desligue equipamentos durante tempestades severas quando não houver proteção apropriada.
+
+---
+
+# 🤝 Compartilhamento responsável
+
+Ao compartilhar arquivos:
+
+- verifique se o arquivo está correto;
+- remova informações desnecessárias;
+- confirme o destinatário;
+- evite compartilhar dados confidenciais sem autorização.
+
+---
+
+# 📋 Documente seu trabalho
+
+Profissionais de TI registram procedimentos.
+
+Documentar significa:
+
+- facilitar futuras manutenções;
+- reduzir erros;
+- acelerar suporte técnico;
+- preservar conhecimento.
+
+Exemplo:
+
+```text
+Data:
+30/07/2026
+
+Equipamento:
+Computador 07
+
+Procedimento:
+Atualização do sistema operacional.
+
+Resultado:
+Concluído sem erros.
+```
+
+---
+
+# 🧠 Desenvolva hábitos profissionais
+
+Independentemente da área de atuação, procure sempre:
+
+- ler mensagens de erro antes de clicar em qualquer botão;
+- entender o problema antes de tentar resolvê-lo;
+- pesquisar documentação oficial;
+- realizar testes antes de aplicar mudanças importantes;
+- evitar alterações sem planejamento.
+
+Esses hábitos fazem parte da rotina de qualquer técnico experiente.
+
+---
+
+# 📊 Resumo das Boas Práticas
+
+| Boa prática | Benefício |
+|--------------|-----------|
+| Organizar arquivos | Localização rápida |
+| Fazer backup | Evita perda de dados |
+| Utilizar senhas fortes | Maior segurança |
+| Atualizar sistemas | Correção de falhas |
+| Manter antivírus | Proteção contra ameaças |
+| Documentar procedimentos | Facilidade na manutenção |
+| Navegar com cuidado | Redução de golpes |
+| Cuidar do equipamento | Maior vida útil |
+
+---
+
+# ⚠️ Erros comuns
+
+❌ Salvar tudo na Área de Trabalho.
+
+❌ Nunca fazer backup.
+
+❌ Utilizar a mesma senha em todos os serviços.
+
+❌ Ignorar atualizações do sistema.
+
+❌ Baixar programas de fontes desconhecidas.
+
+❌ Desligar o computador retirando o cabo de energia.
+
+❌ Compartilhar informações sensíveis sem verificar o destinatário.
+
+❌ Ignorar mensagens de erro.
+
+---
+
+# 💡 Curiosidade
 
 > [!NOTE]
 >
-> O termo **"bug"**, utilizado para indicar falhas em programas e equipamentos, tornou-se famoso após um inseto encontrado em um computador eletromecânico na década de 1940. Desde então, a palavra passou a representar erros de hardware e software.
+> Em muitas empresas, a maior parte dos incidentes de segurança não ocorre por falhas técnicas, mas por erros humanos, como clicar em links maliciosos, utilizar senhas fracas ou compartilhar informações sem autorização.
+
+---
+
+# 📝 Checklist de Boas Práticas
+
+Antes de encerrar o expediente, verifique:
+
+- [ ] Salvei todos os arquivos importantes.
+- [ ] Fiz backup das informações necessárias.
+- [ ] Fechei os programas corretamente.
+- [ ] Não deixei senhas anotadas em locais visíveis.
+- [ ] Bloqueei o computador ao me afastar.
+- [ ] Organizei os arquivos produzidos.
+- [ ] Removi dispositivos USB com segurança.
+- [ ] Verifiquei se o sistema está atualizado.
 
 ---
 
 # 🎓 Conclusão
 
-A história da informática demonstra como a tecnologia evoluiu em poucas décadas.
+Boas práticas não dependem de equipamentos sofisticados ou softwares avançados.
 
-Equipamentos gigantescos deram lugar a computadores compactos e extremamente poderosos.
+Elas dependem principalmente de disciplina, organização e responsabilidade.
 
-Ao compreender essa evolução, torna-se mais fácil perceber que a informática é uma área dinâmica, em constante transformação e com enorme impacto sobre a sociedade.
-
-O profissional de Tecnologia da Informação deve acompanhar essa evolução continuamente, pois novas tecnologias surgem a todo momento.
+Ao adotar esses hábitos desde o início da sua formação, você reduz a ocorrência de falhas, protege informações importantes e desenvolve uma postura profissional valorizada em qualquer área da Tecnologia da Informação.
 
 > [!TIP]
 >
-> Você concluiu o estudo das curiosidades e fatos históricos relacionados à informática.
+> Você concluiu o estudo das principais boas práticas na utilização de sistemas computacionais.
 >
-> No próximo arquivo (`09-Resumo.md`), revisaremos os principais conceitos aprendidos ao longo desta aula, consolidando todo o conteúdo antes dos exercícios e atividades práticas.
+> No próximo arquivo (`08-Curiosidades.md`), exploraremos fatos históricos, curiosidades e informações interessantes sobre a evolução da informática e das tecnologias que utilizamos atualmente.
