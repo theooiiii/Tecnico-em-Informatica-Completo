@@ -513,4 +513,4 @@ Ao adotar esses hábitos desde o início da sua formação, você reduz a ocorr�
 >
 > Você concluiu o estudo das principais boas práticas na utilização de sistemas computacionais.
 >
-> No próximo arquivo (`08-Curiosidades.md`), exploraremos fatos históricos, curiosidades e informações interessantes sobre a evolução da informática e das tecnologias que utilizamos atualmente.
+> No próximo arquivo (`09-Estudo-de-Caso.md`), exploraremos fatos históricos, curiosidades e informações interessantes sobre a evolução da informática e das tecnologias que utilizamos atualmente.
