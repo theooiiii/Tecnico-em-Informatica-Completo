@@ -863,6 +863,6 @@ Esse registro permitirá comparar sua evolução ao longo do curso.
 
 ---
 
-> [!SUCCESS]
+> [!TIP]
 > Você concluiu a apresentação da Aula 01.  
 > O próximo passo é estudar os fundamentos que explicam como a informática surgiu, evoluiu e passou a fazer parte da sociedade.
