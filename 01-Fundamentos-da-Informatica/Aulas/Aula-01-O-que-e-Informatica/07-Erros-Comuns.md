@@ -1,31 +1,33 @@
-# ✅ Boas Práticas na Utilização de Sistemas Computacionais
+# ⚠️ Erros Comuns na Utilização de Sistemas Computacionais
 
 > [!IMPORTANT]
 > **Módulo:** 01 — Fundamentos da Informática
 >
 > **Aula:** 01 — O que é Informática
 >
-> **Arquivo:** `07-Boas-Praticas.md`
+> **Arquivo:** `07-Erros-Comuns.md`
 
 ---
 
 # 📖 Introdução
 
-Saber utilizar um computador vai muito além de ligar a máquina e abrir programas.
+Aprender informática não significa apenas conhecer conceitos, componentes e tecnologias.
 
-Um bom profissional de Tecnologia da Informação precisa desenvolver hábitos que garantam:
+Grande parte dos problemas enfrentados por usuários e empresas ocorre devido a **erros de utilização**.
 
-- segurança;
-- organização;
-- eficiência;
-- confiabilidade;
-- disponibilidade das informações.
+Muitos desses erros parecem pequenos, mas podem resultar em:
 
-Esses hábitos são conhecidos como **boas práticas**.
+- perda de arquivos;
+- vazamento de informações;
+- infecção por malware;
+- lentidão do computador;
+- danos ao sistema operacional;
+- prejuízos financeiros;
+- interrupção de serviços.
 
-Embora muitas pareçam simples, elas fazem grande diferença na prevenção de problemas, na produtividade e na proteção de equipamentos e dados.
+Conhecer esses erros é tão importante quanto aprender a utilizar um computador corretamente.
 
-Neste capítulo conheceremos as principais boas práticas utilizadas por profissionais da área de TI e que devem ser adotadas desde o primeiro contato com um sistema computacional.
+Neste capítulo serão apresentados os equívocos mais comuns cometidos por usuários iniciantes e até mesmo por profissionais experientes.
 
 ---
 
@@ -33,484 +35,389 @@ Neste capítulo conheceremos as principais boas práticas utilizadas por profiss
 
 Ao concluir este capítulo você será capaz de:
 
-- compreender a importância das boas práticas;
-- utilizar computadores de forma segura;
-- organizar arquivos corretamente;
-- proteger informações importantes;
-- identificar comportamentos que evitam falhas;
-- desenvolver hábitos utilizados por profissionais de TI.
+- identificar erros frequentes na utilização de computadores;
+- compreender as consequências de cada erro;
+- evitar práticas que comprometem o funcionamento dos sistemas;
+- desenvolver uma postura mais profissional diante da tecnologia.
 
 ---
 
-# 🤔 O que são boas práticas?
+# 🤔 Por que conhecer os erros mais comuns?
 
-Boas práticas são procedimentos recomendados que reduzem riscos e aumentam a eficiência durante a utilização de um sistema computacional.
+Imagine que um médico estudasse apenas pacientes saudáveis.
 
-Essas recomendações foram desenvolvidas com base em experiências acumuladas por profissionais da área e são adotadas em empresas, órgãos públicos, hospitais, instituições financeiras e centros de tecnologia.
+Provavelmente ele teria dificuldades para identificar doenças.
 
-Seguir boas práticas significa trabalhar de forma mais organizada, segura e profissional.
+Na informática acontece algo semelhante.
+
+Conhecer apenas o funcionamento correto de um sistema não é suficiente.
+
+Também é necessário compreender:
+
+- como os problemas surgem;
+- quais hábitos aumentam os riscos;
+- como evitar falhas antes que elas aconteçam.
 
 ---
 
 > [!NOTE]
 >
-> Muitos problemas de informática não são causados por defeitos no computador, mas por erros de utilização.
+> Na área de TI, prevenir problemas quase sempre é mais rápido, barato e seguro do que corrigi-los depois.
 
 ---
 
-# 🖥️ Utilize o computador corretamente
+# ❌ Erro 1 — Confundir Hardware com Software
 
-O primeiro passo é utilizar o equipamento de maneira adequada.
+Esse é um dos erros mais frequentes entre iniciantes.
 
-Algumas recomendações incluem:
+É comum ouvir frases como:
 
-- ligar e desligar corretamente o computador;
-- evitar desligamentos forçados;
-- não remover dispositivos durante gravações;
-- manter o ambiente limpo;
-- utilizar estabilização elétrica quando necessário.
+> "Meu hardware está desatualizado, preciso atualizar o Windows."
 
----
+Ou:
 
-## ❌ Desligamento incorreto
+> "Meu software queimou."
 
-Desligar um computador retirando diretamente o cabo de energia pode causar:
+Essas afirmações estão incorretas.
 
-- perda de arquivos;
-- corrupção do sistema operacional;
-- danos ao disco durante gravações;
-- falhas na inicialização.
+## Hardware
 
-Sempre utilize o procedimento correto de desligamento do sistema operacional.
+São os componentes físicos.
 
----
+Exemplos:
 
-# 📂 Organização de arquivos
+- processador;
+- monitor;
+- teclado;
+- mouse;
+- SSD;
+- memória RAM.
 
-Uma boa organização facilita o trabalho e reduz o risco de perda de informações.
+## Software
 
-Imagine procurar um documento importante em uma pasta contendo milhares de arquivos sem qualquer organização.
+São os programas.
 
-Provavelmente levará muito tempo.
+Exemplos:
 
----
-
-## ✔️ Recomendações
-
-Crie pastas organizadas.
-
-Exemplo:
-
-```text
-Documentos
-│
-├── Estudos
-│   ├── Informática
-│   ├── Redes
-│   └── Programação
-│
-├── Trabalho
-│
-├── Projetos
-│
-└── Financeiro
-```
+- Windows;
+- Linux;
+- Chrome;
+- Word;
+- Discord.
 
 ---
 
-## ✔️ Utilize nomes descritivos
+## Como evitar esse erro?
 
-Evite nomes como:
+Pergunte a si mesmo:
 
-```
-arquivo1.docx
+> Posso tocar nesse componente?
 
-novo.pdf
+Se a resposta for **sim**, provavelmente é hardware.
 
-teste.txt
-
-documento2.docx
-```
-
-Prefira:
-
-```
-Relatorio_Final_Maio_2026.pdf
-
-Projeto_Web_Versao_2.docx
-
-Aula_Informática_Introducao.md
-```
+Se não puder ser tocado fisicamente, trata-se de software.
 
 ---
 
-> [!TIP]
->
-> Um nome bem escolhido permite identificar rapidamente o conteúdo de um arquivo.
+# ❌ Erro 2 — Pensar que a Memória RAM armazena arquivos
+
+Muitas pessoas acreditam que fotos, documentos e vídeos ficam armazenados na memória RAM.
+
+Isso não acontece.
+
+A RAM é uma memória temporária.
+
+Quando o computador é desligado, seu conteúdo é perdido.
+
+Os arquivos permanecem armazenados em dispositivos permanentes, como SSDs e HDs.
 
 ---
 
-# 💾 Faça backups regularmente
+## Comparação
 
-Todo dispositivo de armazenamento pode falhar.
-
-Por esse motivo, nunca mantenha arquivos importantes em apenas um local.
-
-Um backup é uma cópia de segurança dos dados.
-
----
-
-## Estratégia 3-2-1
-
-Uma das estratégias mais utilizadas na área de TI é a regra **3-2-1**.
-
-Ela recomenda:
-
-- manter **3 cópias** dos arquivos;
-- utilizar **2 tipos diferentes de armazenamento**;
-- manter **1 cópia em outro local**.
-
-```mermaid
-flowchart LR
-    A[Arquivo Original]
-    --> B[Backup Local]
-
-    A
-    --> C[Backup em Nuvem]
-
-    A
-    --> D[HD Externo]
-```
+| Memória RAM | SSD / HD |
+|--------------|-----------|
+| Temporária | Permanente |
+| Muito rápida | Mais lenta |
+| Apagada ao desligar | Mantém os arquivos |
 
 ---
 
-## Exemplos de backup
+# ❌ Erro 3 — Desligar o computador retirando o cabo de energia
 
-- HD Externo
-- SSD Externo
-- Pen Drive
-- NAS
-- Google Drive
-- OneDrive
-- Dropbox
+Alguns usuários desligam o computador desconectando diretamente a energia elétrica.
 
----
+Esse procedimento pode causar:
 
-# 🔒 Proteja suas senhas
+- corrupção de arquivos;
+- perda de dados;
+- danos ao sistema operacional;
+- falhas durante atualizações.
 
-Uma senha fraca representa um dos maiores riscos para qualquer sistema.
-
-Evite utilizar:
-
-- datas de nascimento;
-- sequências numéricas;
-- nome próprio;
-- telefone;
-- CPF.
+O desligamento correto deve ser realizado pelo sistema operacional.
 
 ---
 
-## Exemplo ruim
+# ❌ Erro 4 — Instalar programas de qualquer site
 
-```
-123456
-```
+Nem todo programa disponível na Internet é confiável.
 
----
+Muitos sites distribuem softwares modificados contendo:
 
-## Exemplo ruim
+- vírus;
+- spyware;
+- ransomware;
+- adware.
 
-```
-senha123
-```
-
----
-
-## Exemplo melhor
-
-```
-C4f3!Rio#2026
-```
-
----
-
-## Características de uma boa senha
-
-- letras maiúsculas;
-- letras minúsculas;
-- números;
-- caracteres especiais;
-- tamanho adequado;
-- difícil de adivinhar.
+Sempre prefira baixar programas diretamente do site oficial do desenvolvedor.
 
 ---
 
 > [!WARNING]
 >
-> Nunca compartilhe suas senhas com outras pessoas.
+> Programas obtidos em fontes desconhecidas representam um dos principais meios de infecção por malware.
 
 ---
 
-# 🔐 Utilize autenticação em dois fatores
+# ❌ Erro 5 — Utilizar senhas fracas
 
-Sempre que possível, habilite a autenticação em dois fatores (2FA).
+Uma senha como:
 
-Além da senha, será necessária uma segunda confirmação.
-
-Exemplos:
-
-- código enviado ao celular;
-- aplicativo autenticador;
-- chave física;
-- biometria.
-
-Isso reduz significativamente o risco de acesso não autorizado.
-
----
-
-# 🦠 Mantenha o computador protegido
-
-Utilize ferramentas de segurança.
-
-Exemplos:
-
-- antivírus;
-- firewall;
-- atualizações automáticas;
-- filtros contra phishing.
-
-Essas ferramentas ajudam a proteger o sistema contra ameaças conhecidas.
-
----
-
-# 🔄 Mantenha o sistema atualizado
-
-Atualizações corrigem:
-
-- falhas;
-- vulnerabilidades;
-- erros;
-- problemas de desempenho.
-
-Também podem adicionar novos recursos.
-
----
-
-## O que deve ser atualizado?
-
-- sistema operacional;
-- navegadores;
-- aplicativos;
-- drivers;
-- antivírus.
-
----
-
-# 🌐 Navegue com responsabilidade
-
-Nem todo site é confiável.
-
-Antes de fornecer informações pessoais, observe:
-
-- endereço do site;
-- certificado HTTPS;
-- reputação da empresa;
-- erros de ortografia;
-- aparência suspeita.
-
----
-
-## Exemplo
-
-```
-https://www.banco.com.br
+```text
+123456
 ```
 
-É diferente de:
+Pode ser descoberta em poucos segundos.
 
-```
-https://banco-seguro-login.xyz
+Outros exemplos inadequados:
+
+```text
+senha
+
+admin
+
+qwerty
+
+123123
+
+abcdef
 ```
 
-Mesmo que pareçam semelhantes.
+Além disso, utilizar a mesma senha em vários serviços aumenta significativamente os riscos de comprometimento das contas.
 
 ---
 
-# 📧 Cuidado com golpes
+# ❌ Erro 6 — Ignorar atualizações
 
-Golpes digitais normalmente utilizam engenharia social.
+Alguns usuários desativam permanentemente as atualizações do sistema.
 
-Objetivo:
+Essa prática pode deixar o computador vulnerável.
 
-Convencer o usuário a fornecer informações.
+As atualizações normalmente corrigem:
 
-Alguns exemplos:
-
-- falsas promoções;
-- boletos falsos;
-- mensagens de bancos;
-- e-mails fraudulentos;
-- falsas centrais de atendimento.
+- falhas de segurança;
+- erros de funcionamento;
+- problemas de compatibilidade;
+- vulnerabilidades exploradas por criminosos.
 
 ---
 
-# 🧹 Mantenha o ambiente organizado
+# ❌ Erro 7 — Não fazer backup
 
-Boas práticas também envolvem o ambiente físico.
+Imagine passar anos desenvolvendo um projeto e perder todos os arquivos devido à falha do SSD.
 
-Evite:
+Infelizmente, isso acontece com frequência.
 
-- excesso de poeira;
-- líquidos próximos ao computador;
-- cabos desorganizados;
-- ventilação bloqueada.
+Nenhum dispositivo de armazenamento é eterno.
+
+Por isso, a ausência de backups é considerada um dos erros mais graves.
 
 ---
 
 ```mermaid
 flowchart LR
-    A[Ambiente Limpo]
-    --> B[Menor Aquecimento]
-    --> C[Maior Vida Útil]
+    A[Falha no SSD]
+    --> B[Sem Backup]
+    --> C[Perda dos Dados]
 ```
 
 ---
 
-# ⚡ Utilize energia elétrica de forma segura
+# ❌ Erro 8 — Clicar em qualquer link
 
-Problemas elétricos podem causar danos aos equipamentos.
+Golpes digitais frequentemente utilizam mensagens como:
 
-Sempre que possível:
+- "Seu banco bloqueou sua conta."
+- "Você ganhou um prêmio."
+- "Clique aqui imediatamente."
 
-- utilize filtros de linha de qualidade;
-- mantenha o aterramento adequado;
-- evite sobrecarga em tomadas;
-- desligue equipamentos durante tempestades severas quando não houver proteção apropriada.
+Essas mensagens tentam convencer o usuário a fornecer informações pessoais ou instalar programas maliciosos.
 
----
+Antes de clicar:
 
-# 🤝 Compartilhamento responsável
-
-Ao compartilhar arquivos:
-
-- verifique se o arquivo está correto;
-- remova informações desnecessárias;
-- confirme o destinatário;
-- evite compartilhar dados confidenciais sem autorização.
+- verifique o remetente;
+- observe o endereço do site;
+- desconfie de mensagens urgentes;
+- confirme a informação em canais oficiais.
 
 ---
 
-# 📋 Documente seu trabalho
+# ❌ Erro 9 — Ignorar mensagens de erro
 
-Profissionais de TI registram procedimentos.
+Muitos usuários fecham uma mensagem de erro sem sequer lê-la.
 
-Documentar significa:
+Entretanto, essas mensagens frequentemente indicam:
 
-- facilitar futuras manutenções;
-- reduzir erros;
-- acelerar suporte técnico;
-- preservar conhecimento.
+- a origem do problema;
+- o componente afetado;
+- possíveis soluções.
 
-Exemplo:
-
-```text
-Data:
-30/07/2026
-
-Equipamento:
-Computador 07
-
-Procedimento:
-Atualização do sistema operacional.
-
-Resultado:
-Concluído sem erros.
-```
+Ler atentamente uma mensagem de erro costuma economizar muito tempo durante um diagnóstico.
 
 ---
 
-# 🧠 Desenvolva hábitos profissionais
+# ❌ Erro 10 — Acumular arquivos na Área de Trabalho
 
-Independentemente da área de atuação, procure sempre:
+Embora pareça prático, salvar tudo na Área de Trabalho dificulta a organização.
 
-- ler mensagens de erro antes de clicar em qualquer botão;
-- entender o problema antes de tentar resolvê-lo;
-- pesquisar documentação oficial;
-- realizar testes antes de aplicar mudanças importantes;
-- evitar alterações sem planejamento.
+Problemas comuns:
 
-Esses hábitos fazem parte da rotina de qualquer técnico experiente.
-
----
-
-# 📊 Resumo das Boas Práticas
-
-| Boa prática | Benefício |
-|--------------|-----------|
-| Organizar arquivos | Localização rápida |
-| Fazer backup | Evita perda de dados |
-| Utilizar senhas fortes | Maior segurança |
-| Atualizar sistemas | Correção de falhas |
-| Manter antivírus | Proteção contra ameaças |
-| Documentar procedimentos | Facilidade na manutenção |
-| Navegar com cuidado | Redução de golpes |
-| Cuidar do equipamento | Maior vida útil |
+- dificuldade para localizar documentos;
+- excesso de ícones;
+- perda de produtividade;
+- risco de exclusão acidental.
 
 ---
 
-# ⚠️ Erros comuns
+# ❌ Erro 11 — Desconectar dispositivos sem removê-los corretamente
 
-❌ Salvar tudo na Área de Trabalho.
+Ao utilizar um pendrive ou HD externo, muitas pessoas simplesmente retiram o dispositivo.
 
-❌ Nunca fazer backup.
+Isso pode interromper gravações ainda em andamento.
 
-❌ Utilizar a mesma senha em todos os serviços.
+Como consequência:
 
-❌ Ignorar atualizações do sistema.
+- arquivos podem ser corrompidos;
+- o dispositivo pode apresentar erros de leitura.
 
-❌ Baixar programas de fontes desconhecidas.
-
-❌ Desligar o computador retirando o cabo de energia.
-
-❌ Compartilhar informações sensíveis sem verificar o destinatário.
-
-❌ Ignorar mensagens de erro.
+Sempre utilize a opção **Remover Hardware com Segurança**, quando aplicável.
 
 ---
 
-# 💡 Curiosidade
+# ❌ Erro 12 — Acreditar que antivírus resolve todos os problemas
 
-> [!NOTE]
+O antivírus é uma ferramenta importante, mas não substitui o comportamento seguro do usuário.
+
+Se uma pessoa:
+
+- fornece sua senha para terceiros;
+- instala programas desconhecidos;
+- ignora alertas de segurança;
+
+o antivírus dificilmente conseguirá impedir todos os problemas.
+
+---
+
+# ❌ Erro 13 — Não bloquear o computador ao se afastar
+
+Em ambientes corporativos, deixar o computador desbloqueado representa um risco.
+
+Outra pessoa pode:
+
+- acessar informações sigilosas;
+- alterar arquivos;
+- enviar mensagens em seu nome;
+- excluir documentos.
+
+Bloquear a sessão leva apenas alguns segundos.
+
+---
+
+# ❌ Erro 14 — Acreditar em qualquer informação encontrada na Internet
+
+Nem todo conteúdo disponível online é verdadeiro.
+
+Antes de utilizar uma informação:
+
+- verifique a fonte;
+- consulte documentação oficial;
+- compare diferentes referências;
+- observe a data da publicação.
+
+Essa prática é especialmente importante na área de Tecnologia da Informação, onde novas versões e atualizações são frequentes.
+
+---
+
+# ❌ Erro 15 — Tentar resolver problemas sem entender sua causa
+
+Ao enfrentar uma falha, alguns usuários começam a alterar configurações aleatoriamente.
+
+Essa atitude pode agravar ainda mais a situação.
+
+O procedimento correto é:
+
+1. identificar o problema;
+2. coletar informações;
+3. analisar possíveis causas;
+4. testar soluções de forma organizada.
+
+---
+
+# 📊 Resumo dos principais erros
+
+| Erro | Consequência |
+|-------|--------------|
+| Confundir hardware e software | Diagnósticos incorretos |
+| Não fazer backup | Perda definitiva de dados |
+| Utilizar senhas fracas | Invasões de contas |
+| Ignorar atualizações | Vulnerabilidades |
+| Instalar programas desconhecidos | Infecção por malware |
+| Desligar incorretamente o computador | Corrupção de arquivos |
+| Ignorar mensagens de erro | Diagnóstico mais difícil |
+| Não organizar arquivos | Baixa produtividade |
+
+---
+
+# 💡 Estudo de Caso
+
+Imagine a seguinte situação.
+
+Um funcionário recebe um e-mail informando que sua conta corporativa será bloqueada.
+
+Sem verificar o remetente, ele clica no link e informa:
+
+- usuário;
+- senha;
+- código de autenticação.
+
+Poucos minutos depois, criminosos acessam sua conta e obtêm documentos internos da empresa.
+
+Esse incidente poderia ter sido evitado apenas verificando a autenticidade da mensagem.
+
+---
+
+# 🧠 Desafio
+
+Observe sua rotina de uso do computador.
+
+Quantos dos erros apresentados você já cometeu?
+
+Reflita sobre quais hábitos podem ser modificados para tornar sua utilização mais segura e profissional.
+
+---
+
+# 📌 Conclusão
+
+Erros fazem parte do processo de aprendizagem.
+
+Entretanto, conhecer os equívocos mais comuns permite evitá-los antes que causem prejuízos.
+
+Ao longo da carreira de um Técnico em Informática, desenvolver a capacidade de identificar comportamentos inadequados será tão importante quanto dominar conceitos técnicos.
+
+Profissionais de excelência não apenas resolvem problemas: eles trabalham para impedir que esses problemas aconteçam.
+
+> [!SUCCESS]
 >
-> Em muitas empresas, a maior parte dos incidentes de segurança não ocorre por falhas técnicas, mas por erros humanos, como clicar em links maliciosos, utilizar senhas fracas ou compartilhar informações sem autorização.
-
----
-
-# 📝 Checklist de Boas Práticas
-
-Antes de encerrar o expediente, verifique:
-
-- [ ] Salvei todos os arquivos importantes.
-- [ ] Fiz backup das informações necessárias.
-- [ ] Fechei os programas corretamente.
-- [ ] Não deixei senhas anotadas em locais visíveis.
-- [ ] Bloqueei o computador ao me afastar.
-- [ ] Organizei os arquivos produzidos.
-- [ ] Removi dispositivos USB com segurança.
-- [ ] Verifiquei se o sistema está atualizado.
-
----
-
-# 🎓 Conclusão
-
-Boas práticas não dependem de equipamentos sofisticados ou softwares avançados.
-
-Elas dependem principalmente de disciplina, organização e responsabilidade.
-
-Ao adotar esses hábitos desde o início da sua formação, você reduz a ocorrência de falhas, protege informações importantes e desenvolve uma postura profissional valorizada em qualquer área da Tecnologia da Informação.
-
-> [!TIP]
+> Você concluiu o estudo dos erros mais comuns na utilização de sistemas computacionais.
 >
-> Você concluiu o estudo das principais boas práticas na utilização de sistemas computacionais.
->
-> No próximo arquivo (`08-Curiosidades.md`), exploraremos fatos históricos, curiosidades e informações interessantes sobre a evolução da informática e das tecnologias que utilizamos atualmente.
+> No próximo capítulo (`08-Boas-Praticas.md`), aprenderemos quais procedimentos devem ser adotados para utilizar computadores de forma segura, organizada e eficiente.
