@@ -11,206 +11,293 @@
 
 # 📖 Introdução
 
-Os vídeos abaixo complementam o conteúdo desta aula e ajudam a visualizar, na prática, os conceitos de hardware, software e funcionamento dos computadores.
+A melhor forma de consolidar os conceitos apresentados nesta aula é combinar o estudo do material escrito com videoaulas e demonstrações práticas.
 
-A ordem foi organizada do **mais básico ao mais avançado**, permitindo uma evolução gradual do conhecimento.
+Os vídeos e cursos abaixo foram selecionados por serem produzidos por instituições, professores e canais reconhecidos na área de Tecnologia da Informação.
 
----
-
-# 🚀 Trilha Recomendada
-
-| Ordem | Conteúdo | Duração |
-|-------:|----------|:-------:|
-| 1 | Hardware - Aula 01 (Curso em Vídeo) | ⭐ |
-| 2 | Hardware e Software (Khan Academy) | ⭐ |
-| 3 | Curso Completo de Hardware (Curso em Vídeo) | ⭐⭐⭐ |
-| 4 | Computerphile | ⭐⭐⭐ |
-| 5 | Microsoft Learn | ⭐⭐⭐ |
-| 6 | Cisco Networking Academy | ⭐⭐⭐⭐ |
+A sequência foi organizada do conteúdo mais introdutório para o mais avançado.
 
 ---
 
-# 1️⃣ Curso em Vídeo
+# 🎯 Ordem Recomendada de Estudo
 
-## 🖥️ Curso de Hardware #01
+| Ordem | Recurso | Nível |
+|:---:|----------|:---:|
+| 1 | Curso em Vídeo — Hardware | ⭐ Iniciante |
+| 2 | Khan Academy — Hardware e Software | ⭐ Iniciante |
+| 3 | Cisco Networking Academy | ⭐⭐ Básico |
+| 4 | Microsoft Learn | ⭐⭐ Básico |
+| 5 | Computerphile | ⭐⭐⭐ Intermediário |
+| 6 | José de Assis | ⭐⭐⭐ Intermediário |
+| 7 | Bóson Treinamentos | ⭐⭐⭐ Intermediário |
+| 8 | Diolinux | ⭐⭐⭐ Intermediário |
+| 9 | CrashCourse Computer Science | ⭐⭐⭐⭐ Avançado |
+| 10 | freeCodeCamp | ⭐⭐⭐⭐ Avançado |
+
+---
+
+# 1. Curso em Vídeo
+
+## 🎓 Curso de Hardware
 
 Canal: **Curso em Vídeo**
 
-Professor: **Gustavo Guanabara e Alfredo Junior**
+Professor: **Gustavo Guanabara**
 
-Introdução completa ao curso de Hardware, explicando:
+Ideal para quem está começando.
 
-- o que é hardware;
-- componentes do computador;
-- montagem de PCs;
-- conceitos básicos.
+### Conteúdo
 
-▶️ https://www.youtube.com/watch?v=zpK_MqEMgu4 :contentReference[oaicite:0]{index=0}
+- Conceitos básicos
+- Hardware
+- Componentes
+- Placa-mãe
+- Processador
+- Memória RAM
+- HD e SSD
+- Montagem de computadores
 
----
+**Playlist Oficial**
 
-## Playlist Completa do Curso de Hardware
+https://www.youtube.com/playlist?list=PLHz_AreHm4dmDG5FqXQ3L0xkQd6NQJ3L8
 
-Canal: **Curso em Vídeo**
+Canal
 
-Ideal para acompanhar durante todo este módulo.
-
-▶️ https://www.youtube.com/results?search_query=playlist+curso+de+hardware+curso+em+video :contentReference[oaicite:1]{index=1}
-
----
-
-# 2️⃣ Khan Academy
-
-## Hardware and Software
-
-Explica de maneira extremamente simples como hardware e software trabalham juntos.
-
-Participação de engenheiros da Microsoft e Amazon.
-
-▶️ https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-hardware-and-software :contentReference[oaicite:2]{index=2}
+https://www.youtube.com/@CursoemVideo
 
 ---
 
-# 3️⃣ Microsoft Learn
+# 2. Khan Academy
 
-## Microsoft Learn — Conceitos Básicos
+## 💻 How Computers Work
 
-Conteúdo oficial da Microsoft para iniciantes.
+Curso produzido em parceria com engenheiros da Microsoft e especialistas da área.
 
-Inclui:
+### Conteúdo
 
 - Hardware
-- Windows
+- Software
+- CPU
+- Memória
 - Sistemas Operacionais
-- Componentes do computador
+- Internet
+- Computação
 
-▶️ https://learn.microsoft.com/pt-br/training/
+Curso
 
-Vídeos oficiais:
-
-▶️ https://learn.microsoft.com/pt-br/shows/on-demand-instructor-led-training-series/ :contentReference[oaicite:3]{index=3}
+https://www.khanacademy.org/computing/computer-science/how-computers-work2
 
 ---
 
-# 4️⃣ Cisco Networking Academy
+# 3. Cisco Networking Academy
 
-## Introduction to Hardware
+## 🖥️ Introduction to Hardware
 
-Curso gratuito contendo:
+Conteúdo oficial da Cisco.
+
+Ideal para futuros profissionais de suporte técnico.
+
+### Conteúdo
 
 - Hardware
 - Componentes internos
 - Montagem
-- Diagnóstico
 - Manutenção
+- Diagnóstico
+- Boas práticas
 
-▶️ https://www.netacad.com/
-
----
-
-# 5️⃣ Computerphile
-
-Canal extremamente recomendado para quem deseja entender como os computadores realmente funcionam.
-
-## Hardware vs Software
-
-▶️ https://www.youtube.com/results?search_query=Computerphile+Hardware+vs+Software :contentReference[oaicite:4]{index=4}
+https://www.netacad.com/
 
 ---
 
-## Raspberry Pi Hardware
+# 4. Microsoft Learn
 
-Explica hardware na prática utilizando Raspberry Pi.
+## 💙 Conceitos Fundamentais
 
-▶️ https://www.youtube.com/results?search_query=Computerphile+Raspberry+Pi+Hardware :contentReference[oaicite:5]{index=5}
+Documentação oficial da Microsoft.
+
+Excelente complemento para iniciantes.
+
+### Conteúdo
+
+- Hardware
+- Windows
+- Sistemas Operacionais
+- Computadores
+- Armazenamento
+- Segurança
+
+https://learn.microsoft.com/pt-br/training/
 
 ---
 
-# 6️⃣ José de Assis
+# 5. Computerphile
 
-Canal brasileiro voltado para formação técnica em TI.
+Canal da Universidade de Nottingham.
 
-Playlist:
+Vídeos curtos explicando conceitos avançados de computação de forma simples.
 
-▶️ https://www.youtube.com/@josedeassis/playlists
+### Recomendados
+
+- What is RAM?
+- What is a CPU?
+- Computer Memory
+- SSD vs HDD
+- How Computers Boot
+
+Canal
+
+https://www.youtube.com/@Computerphile
 
 ---
 
-# 7️⃣ Bóson Treinamentos
+# 6. José de Assis
 
-Conteúdo introdutório sobre:
+Canal brasileiro voltado para cursos de Tecnologia da Informação.
+
+### Conteúdo
+
+- Hardware
+- Windows
+- Linux
+- Redes
+- Programação
+- Banco de Dados
+
+Canal
+
+https://www.youtube.com/@josedeassis
+
+Playlists
+
+https://www.youtube.com/@josedeassis/playlists
+
+---
+
+# 7. Bóson Treinamentos
+
+Excelente canal para quem deseja aprofundar os estudos em infraestrutura.
+
+### Conteúdo
 
 - Hardware
 - Linux
 - Redes
 - Sistemas Operacionais
+- Virtualização
 
-▶️ https://www.youtube.com/@bosontreinamentos/playlists
+Canal
 
----
-
-# 8️⃣ Diolinux
-
-Excelente para aprender sobre sistemas operacionais Linux.
-
-▶️ https://www.youtube.com/@Diolinux/playlists
+https://www.youtube.com/@bosontreinamentos
 
 ---
 
-# 9️⃣ freeCodeCamp
+# 8. Diolinux
 
-Cursos completos gratuitos.
+Ideal para conhecer sistemas operacionais Linux.
 
-Computer Science
+### Conteúdo
 
-Hardware
+- Ubuntu
+- Fedora
+- Linux Mint
+- Hardware
+- Drivers
+- Instalação
 
-Operating Systems
+Canal
 
-▶️ https://www.youtube.com/@freecodecamp/videos
+https://www.youtube.com/@Diolinux
 
 ---
 
-# 🔟 CrashCourse
+# 9. CrashCourse
 
 ## Computer Science
 
-Uma excelente introdução à Ciência da Computação.
+Uma das melhores séries introdutórias sobre Ciência da Computação.
 
-▶️ https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
+### Conteúdo
+
+- História da Computação
+- Hardware
+- Software
+- Processadores
+- Sistemas Operacionais
+- Redes
+
+Playlist Oficial
+
+https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 ---
 
-# 📚 Ordem Recomendada
+# 10. freeCodeCamp
 
-Para acompanhar esta aula, recomenda-se assistir aos vídeos nesta sequência:
+Canal com cursos completos e gratuitos.
 
-1. Curso de Hardware #01 — Curso em Vídeo
-2. Hardware and Software — Khan Academy
-3. Playlist de Hardware — Curso em Vídeo
-4. Computerphile
-5. Microsoft Learn
-6. Cisco Networking Academy
-7. José de Assis
-8. Bóson Treinamentos
-9. Diolinux
-10. CrashCourse Computer Science
+### Conteúdo
+
+- Computer Science
+- Operating Systems
+- Linux
+- Hardware
+- Networking
+
+Canal
+
+https://www.youtube.com/@freecodecamp
+
+---
+
+# 📚 Recursos Extras
+
+## Intel
+
+Conheça a arquitetura dos processadores Intel.
+
+https://www.intel.com/content/www/us/en/support/processors.html
+
+---
+
+## AMD
+
+Conteúdo oficial sobre processadores AMD.
+
+https://www.amd.com/en/support
+
+---
+
+## Kingston
+
+Aprenda sobre memória RAM e SSDs.
+
+https://www.kingston.com/br/blog
+
+---
+
+## Crucial
+
+Artigos sobre armazenamento e memória.
+
+https://www.crucial.com/articles
 
 ---
 
 # 💡 Dicas de Estudo
 
-- Assista aos vídeos acompanhando o material da aula.
-- Faça anotações dos conceitos mais importantes.
-- Pause os vídeos para pesquisar termos desconhecidos.
-- Sempre que possível, observe os componentes do seu próprio computador enquanto estuda.
-- Após cada vídeo, revise os tópicos correspondentes no material escrito.
+- Assista às aulas seguindo a ordem recomendada.
+- Faça anotações durante os vídeos.
+- Sempre que possível, acompanhe utilizando um computador real.
+- Identifique os componentes citados nas videoaulas.
+- Consulte o material escrito sempre que surgir alguma dúvida.
+- Revise os vídeos antes de iniciar as atividades práticas.
 
 ---
 
 # 📋 Resumo
 
-Os vídeos recomendados complementam os conteúdos apresentados nesta aula, oferecendo explicações visuais, demonstrações práticas e aprofundamentos técnicos sobre hardware e software. A combinação entre leitura e recursos audiovisuais torna o aprendizado mais dinâmico e facilita a compreensão dos conceitos fundamentais.
+As videoaulas e materiais recomendados complementam o conteúdo desta aula, oferecendo explicações visuais e demonstrações práticas sobre hardware e software. A combinação entre leitura, prática e vídeos facilita a compreensão dos conceitos fundamentais e prepara o estudante para os próximos módulos do curso.
 
 > [!TIP]
-> Não assista aos vídeos apenas como entretenimento. Faça anotações, pause para refletir sobre os conceitos apresentados e, sempre que possível, reproduza na prática os procedimentos demonstrados.
+> Priorize sempre canais oficiais, instituições reconhecidas e documentações dos fabricantes. Esses materiais costumam ser mais confiáveis, atualizados e alinhados às boas práticas utilizadas por profissionais da área de Tecnologia da Informação.
