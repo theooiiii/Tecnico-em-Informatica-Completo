@@ -11,149 +11,70 @@
 
 # 📖 Introdução
 
-A melhor forma de consolidar os conceitos apresentados nesta aula é combinar o estudo do material escrito com videoaulas e demonstrações práticas.
+Além do material escrito, assistir a videoaulas é uma excelente forma de visualizar o funcionamento dos componentes de um computador e compreender como hardware e software trabalham em conjunto.
 
-Os vídeos e cursos abaixo foram selecionados por serem produzidos por instituições, professores e canais reconhecidos na área de Tecnologia da Informação.
-
-A sequência foi organizada do conteúdo mais introdutório para o mais avançado.
+Nesta página você encontrará cursos, playlists e canais cuidadosamente selecionados, tanto em **Português** quanto em **Inglês**, organizados por nível de dificuldade.
 
 ---
 
-# 🎯 Ordem Recomendada de Estudo
+# 🗺️ Trilha Recomendada
 
-| Ordem | Recurso | Nível |
-|:---:|----------|:---:|
-| 1 | Curso em Vídeo — Hardware | ⭐ Iniciante |
-| 2 | Khan Academy — Hardware e Software | ⭐ Iniciante |
-| 3 | Cisco Networking Academy | ⭐⭐ Básico |
-| 4 | Microsoft Learn | ⭐⭐ Básico |
-| 5 | Computerphile | ⭐⭐⭐ Intermediário |
-| 6 | José de Assis | ⭐⭐⭐ Intermediário |
-| 7 | Bóson Treinamentos | ⭐⭐⭐ Intermediário |
-| 8 | Diolinux | ⭐⭐⭐ Intermediário |
-| 9 | CrashCourse Computer Science | ⭐⭐⭐⭐ Avançado |
-| 10 | freeCodeCamp | ⭐⭐⭐⭐ Avançado |
+| Ordem | Recurso | Idioma | Nível |
+|:---:|----------|:------:|:------:|
+| 1 | Curso em Vídeo - Hardware | 🇧🇷 Português | ⭐ Iniciante |
+| 2 | Khan Academy - How Computers Work | 🇺🇸 Inglês | ⭐ Iniciante |
+| 3 | Cisco Networking Academy | 🇺🇸 Inglês | ⭐⭐ Básico |
+| 4 | Microsoft Learn | 🇧🇷🇺🇸 Português / Inglês | ⭐⭐ Básico |
+| 5 | José de Assis | 🇧🇷 Português | ⭐⭐⭐ Intermediário |
+| 6 | Bóson Treinamentos | 🇧🇷 Português | ⭐⭐⭐ Intermediário |
+| 7 | Computerphile | 🇬🇧 Inglês | ⭐⭐⭐ Intermediário |
+| 8 | Diolinux | 🇧🇷 Português | ⭐⭐⭐ Intermediário |
+| 9 | CrashCourse Computer Science | 🇺🇸 Inglês | ⭐⭐⭐⭐ Avançado |
+| 10 | freeCodeCamp | 🇺🇸 Inglês | ⭐⭐⭐⭐ Avançado |
 
 ---
 
-# 1. Curso em Vídeo
+# 🇧🇷 Conteúdo em Português
 
-## 🎓 Curso de Hardware
+---
 
-Canal: **Curso em Vídeo**
+## 🎓 Curso em Vídeo
 
-Professor: **Gustavo Guanabara**
+**Professor:** Gustavo Guanabara
 
-Ideal para quem está começando.
+**Curso:** Hardware (20 horas)
 
-### Conteúdo
+### O que você aprenderá
 
-- Conceitos básicos
-- Hardware
-- Componentes
+- O que é hardware
+- Processadores
 - Placa-mãe
-- Processador
 - Memória RAM
-- HD e SSD
+- SSD e HD
+- Fontes
+- Gabinetes
 - Montagem de computadores
+- Escolha de componentes
 
-**Playlist Oficial**
+**Nível:** ⭐ Iniciante
 
-https://www.youtube.com/playlist?list=PLHz_AreHm4dmDG5FqXQ3L0xkQd6NQJ3L8
+**Carga horária:** 20 horas
 
-Canal
+### Links
+
+🌐 Curso Oficial
+
+https://www.cursoemvideo.com/curso/hardware/
+
+📺 Canal
 
 https://www.youtube.com/@CursoemVideo
 
 ---
 
-# 2. Khan Academy
+## 🎓 José de Assis
 
-## 💻 How Computers Work
-
-Curso produzido em parceria com engenheiros da Microsoft e especialistas da área.
-
-### Conteúdo
-
-- Hardware
-- Software
-- CPU
-- Memória
-- Sistemas Operacionais
-- Internet
-- Computação
-
-Curso
-
-https://www.khanacademy.org/computing/computer-science/how-computers-work2
-
----
-
-# 3. Cisco Networking Academy
-
-## 🖥️ Introduction to Hardware
-
-Conteúdo oficial da Cisco.
-
-Ideal para futuros profissionais de suporte técnico.
-
-### Conteúdo
-
-- Hardware
-- Componentes internos
-- Montagem
-- Manutenção
-- Diagnóstico
-- Boas práticas
-
-https://www.netacad.com/
-
----
-
-# 4. Microsoft Learn
-
-## 💙 Conceitos Fundamentais
-
-Documentação oficial da Microsoft.
-
-Excelente complemento para iniciantes.
-
-### Conteúdo
-
-- Hardware
-- Windows
-- Sistemas Operacionais
-- Computadores
-- Armazenamento
-- Segurança
-
-https://learn.microsoft.com/pt-br/training/
-
----
-
-# 5. Computerphile
-
-Canal da Universidade de Nottingham.
-
-Vídeos curtos explicando conceitos avançados de computação de forma simples.
-
-### Recomendados
-
-- What is RAM?
-- What is a CPU?
-- Computer Memory
-- SSD vs HDD
-- How Computers Boot
-
-Canal
-
-https://www.youtube.com/@Computerphile
-
----
-
-# 6. José de Assis
-
-Canal brasileiro voltado para cursos de Tecnologia da Informação.
+Canal voltado para formação técnica em Tecnologia da Informação.
 
 ### Conteúdo
 
@@ -161,100 +82,214 @@ Canal brasileiro voltado para cursos de Tecnologia da Informação.
 - Windows
 - Linux
 - Redes
-- Programação
 - Banco de Dados
+- Programação
 
-Canal
+**Nível:** ⭐⭐⭐
+
+📺 Canal
 
 https://www.youtube.com/@josedeassis
 
-Playlists
+📚 Playlists
 
 https://www.youtube.com/@josedeassis/playlists
 
 ---
 
-# 7. Bóson Treinamentos
+## 🎓 Bóson Treinamentos
 
-Excelente canal para quem deseja aprofundar os estudos em infraestrutura.
+Excelente para aprofundar conhecimentos técnicos.
 
 ### Conteúdo
 
 - Hardware
 - Linux
 - Redes
-- Sistemas Operacionais
 - Virtualização
+- Servidores
+- Sistemas Operacionais
 
-Canal
+**Nível:** ⭐⭐⭐
+
+📺 Canal
 
 https://www.youtube.com/@bosontreinamentos
 
 ---
 
-# 8. Diolinux
+## 🎓 Diolinux
 
-Ideal para conhecer sistemas operacionais Linux.
+Ideal para quem deseja conhecer Linux e compreender melhor sistemas operacionais.
 
 ### Conteúdo
 
 - Ubuntu
 - Fedora
 - Linux Mint
-- Hardware
 - Drivers
+- Hardware
 - Instalação
 
-Canal
+**Nível:** ⭐⭐⭐
+
+📺 Canal
 
 https://www.youtube.com/@Diolinux
 
 ---
 
-# 9. CrashCourse
+# 🇺🇸 Conteúdo em Inglês
 
-## Computer Science
+---
+
+## 🎓 Khan Academy + Code.org
+
+Uma das melhores séries introdutórias sobre funcionamento dos computadores.
+
+Produzida em parceria com engenheiros da Microsoft e profissionais da indústria.
+
+### Conteúdo
+
+- What makes a computer?
+- Binary
+- CPU
+- Memory
+- Hardware
+- Software
+- Input & Output
+- Operating Systems
+
+**Nível:** ⭐ Iniciante
+
+🌐 Curso
+
+https://www.khanacademy.org/computing/computer-science/how-computers-work2
+
+▶ Hardware and Software
+
+https://www.khanacademy.org/computing/computer-science/how-computers-work2/v/khan-academy-and-codeorg-hardware-and-software
+
+▶ Introdução
+
+https://www.khanacademy.org/computing/code-org/computers-and-the-internet/how-computers-work/v/khan-academy-and-codeorg-introducing-how-computers-work
+
+---
+
+## 🎓 Cisco Networking Academy
+
+Conteúdo oficial da Cisco.
+
+Excelente para quem deseja seguir carreira em infraestrutura e suporte.
+
+### Conteúdo
+
+- Hardware
+- PC Components
+- Maintenance
+- Troubleshooting
+- Networking
+
+**Nível:** ⭐⭐
+
+🌐 Plataforma
+
+https://www.netacad.com/
+
+---
+
+## 🎓 Microsoft Learn
+
+Documentação e cursos oficiais da Microsoft.
+
+### Conteúdo
+
+- Hardware
+- Windows
+- Sistemas Operacionais
+- Armazenamento
+- Segurança
+- Infraestrutura
+
+**Nível:** ⭐⭐
+
+🌐 Plataforma
+
+https://learn.microsoft.com/pt-br/training/
+
+---
+
+## 🎓 Computerphile
+
+Canal da Universidade de Nottingham.
+
+Explica conceitos complexos de forma simples.
+
+### Vídeos recomendados
+
+- What is RAM?
+- What is a CPU?
+- SSD vs HDD
+- Cache Memory
+- Computer Memory
+- Motherboards
+- How Computers Boot
+
+**Nível:** ⭐⭐⭐
+
+📺 Canal
+
+https://www.youtube.com/@Computerphile
+
+---
+
+## 🎓 CrashCourse Computer Science
 
 Uma das melhores séries introdutórias sobre Ciência da Computação.
 
 ### Conteúdo
 
-- História da Computação
+- História dos Computadores
 - Hardware
 - Software
-- Processadores
+- CPU
+- Memória
 - Sistemas Operacionais
 - Redes
 
-Playlist Oficial
+**Nível:** ⭐⭐⭐⭐
+
+📺 Playlist
 
 https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
 
 ---
 
-# 10. freeCodeCamp
+## 🎓 freeCodeCamp
 
-Canal com cursos completos e gratuitos.
+Cursos completos gratuitos.
 
 ### Conteúdo
 
 - Computer Science
 - Operating Systems
 - Linux
-- Hardware
 - Networking
+- Programming
 
-Canal
+**Nível:** ⭐⭐⭐⭐
+
+📺 Canal
 
 https://www.youtube.com/@freecodecamp
 
 ---
 
-# 📚 Recursos Extras
+# 📚 Materiais Oficiais
 
 ## Intel
 
-Conheça a arquitetura dos processadores Intel.
+Documentação sobre processadores Intel.
 
 https://www.intel.com/content/www/us/en/support/processors.html
 
@@ -262,7 +297,7 @@ https://www.intel.com/content/www/us/en/support/processors.html
 
 ## AMD
 
-Conteúdo oficial sobre processadores AMD.
+Documentação oficial da AMD.
 
 https://www.amd.com/en/support
 
@@ -270,7 +305,7 @@ https://www.amd.com/en/support
 
 ## Kingston
 
-Aprenda sobre memória RAM e SSDs.
+Artigos sobre memória RAM e SSD.
 
 https://www.kingston.com/br/blog
 
@@ -286,18 +321,18 @@ https://www.crucial.com/articles
 
 # 💡 Dicas de Estudo
 
-- Assista às aulas seguindo a ordem recomendada.
-- Faça anotações durante os vídeos.
+- Assista aos vídeos seguindo a ordem sugerida.
+- Faça anotações durante as aulas.
 - Sempre que possível, acompanhe utilizando um computador real.
-- Identifique os componentes citados nas videoaulas.
+- Pause os vídeos para identificar os componentes do seu próprio equipamento.
 - Consulte o material escrito sempre que surgir alguma dúvida.
-- Revise os vídeos antes de iniciar as atividades práticas.
+- Revise os conteúdos antes de realizar as atividades práticas.
 
 ---
 
 # 📋 Resumo
 
-As videoaulas e materiais recomendados complementam o conteúdo desta aula, oferecendo explicações visuais e demonstrações práticas sobre hardware e software. A combinação entre leitura, prática e vídeos facilita a compreensão dos conceitos fundamentais e prepara o estudante para os próximos módulos do curso.
+Os vídeos e cursos apresentados nesta página complementam os conceitos estudados nesta aula por meio de demonstrações práticas e explicações visuais. O uso combinado de materiais em português e inglês amplia o vocabulário técnico, desenvolve familiaridade com documentações internacionais e prepara o estudante para atuar em um mercado cada vez mais globalizado.
 
 > [!TIP]
-> Priorize sempre canais oficiais, instituições reconhecidas e documentações dos fabricantes. Esses materiais costumam ser mais confiáveis, atualizados e alinhados às boas práticas utilizadas por profissionais da área de Tecnologia da Informação.
+> Sempre que possível, assista aos conteúdos em inglês com legendas em português. Com o tempo, experimente alternar para legendas em inglês ou assistir sem legendas. Desenvolver a compreensão do inglês técnico é um diferencial importante para qualquer profissional de Tecnologia da Informação.
