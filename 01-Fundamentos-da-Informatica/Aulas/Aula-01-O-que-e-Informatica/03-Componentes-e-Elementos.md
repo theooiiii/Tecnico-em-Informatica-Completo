@@ -489,7 +489,7 @@ Nenhum desses elementos é suficiente isoladamente.
 
 Somente quando todos trabalham em conjunto é possível transformar dados em informações úteis e permitir que computadores resolvam problemas do mundo real.
 
-> [!SUCCESS]
+[!SUCCESS]
 > Você concluiu o estudo dos componentes fundamentais de um sistema computacional.
 >
 > No próximo arquivo (`04-Funcionamento.md`) veremos como esses componentes interagem internamente durante o processamento de uma informação.
