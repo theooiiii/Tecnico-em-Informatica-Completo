@@ -1,23 +1,25 @@
-# 💻 01 — Hardware
+# 🖥️ Fundamentos de Hardware
 
 > [!IMPORTANT]
 > **Módulo:** 01 — Fundamentos da Informática
 >
 > **Aula:** 02 — Hardware e Software
 >
-> **Arquivo:** `01-Hardware.md`
+> **Arquivo:** `01-Fundamentos.md`
 
 ---
 
 # 📖 Introdução
 
-Quando pensamos em um computador, normalmente imaginamos um gabinete, um monitor, um teclado ou um notebook.
+Na aula anterior você aprendeu o que é informática e como os computadores transformam dados em informações.
 
-Todos esses elementos fazem parte do **hardware**, ou seja, dos componentes físicos de um sistema computacional.
+Agora é o momento de compreender um dos pilares fundamentais da computação: **o hardware**.
 
-O hardware é responsável por executar as instruções enviadas pelos programas (softwares), armazenar informações, realizar cálculos, processar dados e permitir a interação entre o usuário e o computador.
+Sempre que utilizamos um computador, smartphone, videogame ou qualquer outro dispositivo eletrônico, existe um conjunto de componentes físicos trabalhando em conjunto para executar milhares ou até bilhões de operações por segundo.
 
-Nesta aula você conhecerá os principais conceitos relacionados ao hardware, compreenderá sua importância e aprenderá a identificar os componentes presentes em diferentes equipamentos eletrônicos.
+Esses componentes recebem comandos, processam informações, armazenam dados e apresentam resultados ao usuário.
+
+Conhecer esses conceitos é indispensável para qualquer profissional de Tecnologia da Informação, pois praticamente todas as áreas da computação dependem do correto funcionamento do hardware.
 
 ---
 
@@ -25,32 +27,42 @@ Nesta aula você conhecerá os principais conceitos relacionados ao hardware, co
 
 Ao concluir este capítulo você será capaz de:
 
-- definir o conceito de hardware;
-- identificar componentes físicos de um computador;
-- compreender a função do hardware em um sistema computacional;
-- diferenciar hardware interno e externo;
-- reconhecer exemplos de hardware presentes no cotidiano.
+- compreender o conceito de hardware;
+- identificar sua importância em um sistema computacional;
+- diferenciar hardware e software;
+- conhecer as principais classificações do hardware;
+- entender como o hardware participa do processamento das informações.
 
 ---
 
 # 🧠 O que é Hardware?
 
-Hardware é o conjunto de **componentes físicos** de um sistema computacional.
+Hardware é o conjunto de todos os componentes físicos de um sistema computacional.
 
-São todas as partes que podem ser vistas e, na maioria dos casos, tocadas.
+São as partes que possuem existência material e que tornam possível o funcionamento do computador.
 
-Esses componentes trabalham em conjunto para executar instruções, armazenar informações e permitir a comunicação entre o usuário e o computador.
+Esses componentes podem ser vistos, tocados, conectados, substituídos ou atualizados.
 
-Sem hardware, nenhum software poderia ser executado.
+Sem hardware, um software não teria onde ser executado.
 
-> [!NOTE]
-> A palavra **hardware** tem origem na língua inglesa, sendo formada por *hard* (duro, físico) e *ware* (produto ou componente).
+Da mesma forma, um hardware sem software seria incapaz de realizar tarefas úteis.
 
 ---
 
-# 🖥️ O Hardware no Dia a Dia
+# 📜 Origem da Palavra
 
-O hardware está presente em praticamente todos os dispositivos eletrônicos modernos.
+O termo **Hardware** é formado por duas palavras da língua inglesa:
+
+- **Hard** → duro, físico.
+- **Ware** → produto ou componente.
+
+Na computação, hardware representa toda a infraestrutura física responsável pelo funcionamento do sistema.
+
+---
+
+# 🌍 Onde Existe Hardware?
+
+O hardware está presente em praticamente todos os equipamentos eletrônicos modernos.
 
 Exemplos:
 
@@ -60,22 +72,42 @@ Exemplos:
 - tablets;
 - servidores;
 - Smart TVs;
+- relógios inteligentes;
 - caixas eletrônicos;
 - videogames;
-- relógios inteligentes;
 - impressoras;
 - roteadores;
-- equipamentos hospitalares.
+- drones;
+- equipamentos hospitalares;
+- máquinas industriais;
+- veículos modernos.
 
-Embora esses equipamentos tenham formatos e capacidades diferentes, todos possuem componentes físicos responsáveis pelo processamento de informações.
+Sempre que um equipamento processa informações, existe hardware envolvido.
 
 ---
 
-# ⚙️ Como o Hardware Funciona?
+# ⚙️ O Papel do Hardware
 
-O hardware recebe informações, realiza o processamento das instruções e apresenta os resultados ao usuário.
+O hardware possui diversas responsabilidades dentro de um sistema computacional.
 
-Esse funcionamento ocorre em conjunto com o software.
+Entre elas:
+
+- receber dados;
+- processar informações;
+- armazenar arquivos;
+- controlar dispositivos;
+- comunicar-se com outros equipamentos;
+- apresentar resultados ao usuário.
+
+Cada componente realiza uma tarefa específica.
+
+O funcionamento do computador depende da colaboração entre todos eles.
+
+---
+
+# 🔄 Hardware em Funcionamento
+
+Observe o fluxo simplificado de funcionamento de um computador.
 
 ```mermaid
 flowchart LR
@@ -92,40 +124,50 @@ flowchart LR
     --> E[Resultado]
 ```
 
-Na prática:
+O processo acontece continuamente.
 
-1. O usuário fornece uma entrada.
-2. O hardware recebe essa informação.
-3. O processador executa as instruções.
-4. Os dados podem ser armazenados.
-5. O resultado é apresentado.
+1. O usuário envia um comando.
+2. O hardware recebe esse comando.
+3. Os componentes executam o processamento.
+4. O resultado é apresentado.
 
 ---
 
-# 🧩 Principais Funções do Hardware
+# 🤝 Hardware e Software
 
-O hardware possui diversas responsabilidades dentro de um sistema computacional.
+Hardware e software trabalham juntos.
 
-Entre as principais estão:
+Nenhum deles possui utilidade isoladamente.
 
-- executar cálculos;
-- armazenar informações;
-- controlar dispositivos;
-- comunicar-se com outros equipamentos;
-- exibir resultados;
-- receber comandos do usuário.
+```mermaid
+flowchart TD
+    A[Usuário]
+    --> B[Software]
 
-Cada componente possui uma função específica, mas todos trabalham de forma integrada.
+    B
+    --> C[Hardware]
+
+    C
+    --> D[Resultado]
+```
+
+Por exemplo:
+
+Ao abrir um navegador:
+
+- o software solicita a abertura;
+- o hardware executa essa solicitação;
+- o monitor apresenta a interface.
 
 ---
 
 # 🏗️ Classificação do Hardware
 
-Os componentes físicos podem ser classificados em diferentes categorias.
+Os componentes físicos podem ser agrupados conforme sua função.
 
 ## Hardware de Entrada
 
-São dispositivos utilizados para enviar informações ao computador.
+Recebem informações enviadas pelo usuário.
 
 Exemplos:
 
@@ -134,32 +176,30 @@ Exemplos:
 - scanner;
 - webcam;
 - microfone;
-- leitor biométrico;
-- leitor de código de barras.
+- leitor biométrico.
 
 ---
 
 ## Hardware de Saída
 
-São dispositivos responsáveis por apresentar informações ao usuário.
+Apresentam informações processadas.
 
 Exemplos:
 
 - monitor;
 - impressora;
 - caixas de som;
-- projetor;
-- fones de ouvido.
+- projetor.
 
 ---
 
 ## Hardware de Entrada e Saída
 
-Alguns dispositivos desempenham ambas as funções.
+Executam ambas as funções.
 
 Exemplos:
 
-- tela sensível ao toque (touchscreen);
+- touchscreen;
 - impressora multifuncional;
 - headset;
 - dispositivos USB;
@@ -169,36 +209,30 @@ Exemplos:
 
 ## Hardware de Processamento
 
-São responsáveis por executar instruções e controlar o funcionamento do sistema.
+Executam cálculos e instruções.
 
 Exemplos:
 
-- processador (CPU);
-- placa de vídeo (GPU);
+- CPU;
+- GPU;
 - chipset.
 
 ---
 
 ## Hardware de Armazenamento
 
-São utilizados para guardar informações.
+Guardam informações.
 
 Exemplos:
 
 - SSD;
 - HD;
 - Pen Drive;
-- cartão de memória;
-- DVD;
-- Blu-ray.
+- cartão de memória.
 
 ---
 
-# 🖥️ Hardware Interno e Externo
-
-Outra forma de classificar o hardware é de acordo com sua localização.
-
-## Hardware Interno
+# 🖥️ Hardware Interno
 
 São componentes instalados dentro do computador.
 
@@ -212,156 +246,157 @@ Exemplos:
 - fonte de alimentação;
 - placa de vídeo.
 
+Esses componentes normalmente não ficam visíveis durante a utilização do equipamento.
+
 ---
 
-## Hardware Externo
+# 🖱️ Hardware Externo
 
-São periféricos conectados ao computador.
+Também chamados de **periféricos**.
+
+São dispositivos conectados ao computador.
 
 Exemplos:
 
-- monitor;
 - teclado;
 - mouse;
-- impressora;
+- monitor;
 - webcam;
+- impressora;
+- scanner;
 - caixas de som;
-- scanner.
-
----
-
-# 🔄 Integração entre os Componentes
-
-Nenhum componente funciona isoladamente.
-
-Todos precisam trabalhar em conjunto para que o computador execute uma tarefa.
-
-```mermaid
-flowchart TD
-    A[Teclado]
-    --> B[Processador]
-
-    B
-    --> C[Memória RAM]
-
-    C
-    --> D[SSD]
-
-    B
-    --> E[Monitor]
-```
-
-Por exemplo, ao abrir um navegador:
-
-- o teclado ou mouse envia um comando;
-- a CPU processa a solicitação;
-- a memória RAM armazena temporariamente os dados;
-- o SSD fornece os arquivos do programa;
-- o monitor apresenta o resultado.
-
----
-
-# 🌍 Exemplos no Cotidiano
-
-## Smartphone
-
-Hardware presente:
-
-- tela;
-- processador;
-- bateria;
-- câmera;
-- memória;
-- alto-falantes;
 - microfone.
 
 ---
 
-## Caixa Eletrônico
+# 📊 Características do Hardware
 
-Hardware presente:
-
-- monitor;
-- teclado;
-- leitor de cartão;
-- impressora;
-- leitor biométrico;
-- processador.
-
----
-
-## Hospital
-
-Equipamentos como tomógrafos, aparelhos de ultrassom e monitores cardíacos utilizam hardware especializado para coletar, processar e apresentar informações médicas.
-
----
-
-## Indústria
-
-Robôs industriais utilizam sensores, motores, controladores e processadores para automatizar processos de fabricação.
-
----
-
-# 📈 Evolução do Hardware
-
-Ao longo das últimas décadas, os componentes físicos evoluíram significativamente.
-
-| Antes | Atualmente |
-|--------|------------|
-| Disquetes | SSDs NVMe |
-| Monitores CRT | Monitores LED e OLED |
-| HDs lentos | SSDs de alta velocidade |
-| Processadores de um núcleo | CPUs com múltiplos núcleos |
-| Cabos seriais | USB-C e Thunderbolt |
-
-Essa evolução trouxe maior desempenho, menor consumo de energia e equipamentos mais compactos.
-
----
-
-# 🧠 Características do Hardware
-
-Um componente de hardware pode ser avaliado por diversos fatores.
-
-Entre eles:
+Ao avaliar um componente físico, normalmente são observados fatores como:
 
 - desempenho;
-- capacidade;
 - velocidade;
+- capacidade;
 - consumo de energia;
 - compatibilidade;
 - confiabilidade;
 - durabilidade;
 - custo.
 
-Ao escolher um equipamento, é importante considerar o uso pretendido e o equilíbrio entre esses fatores.
+Nem sempre o componente mais caro será a melhor escolha.
+
+Tudo depende da necessidade do usuário.
 
 ---
 
-# ❌ Mitos sobre Hardware
+# 🌎 Exemplos do Cotidiano
 
-Algumas ideias incorretas são bastante comuns.
+## Em casa
 
-### "Quanto mais memória RAM, melhor o computador."
+- notebook;
+- computador;
+- videogame;
+- Smart TV;
+- roteador.
+
+---
+
+## Na escola
+
+- laboratórios;
+- projetores;
+- impressoras;
+- computadores administrativos.
+
+---
+
+## Nos hospitais
+
+- monitores cardíacos;
+- tomógrafos;
+- aparelhos de ultrassom;
+- computadores médicos.
+
+---
+
+## Na indústria
+
+- robôs;
+- sensores;
+- controladores industriais;
+- computadores embarcados.
+
+---
+
+# 📈 Evolução do Hardware
+
+O hardware evoluiu rapidamente ao longo das últimas décadas.
+
+| Antes | Atualmente |
+|--------|------------|
+| Disquete | SSD NVMe |
+| HD IDE | SSD PCIe |
+| Monitores CRT | LED, OLED e Mini LED |
+| CPU de um núcleo | CPUs com dezenas de núcleos |
+| Portas seriais | USB-C e Thunderbolt |
+
+Além do aumento do desempenho, os equipamentos se tornaram menores, mais eficientes e mais econômicos.
+
+---
+
+# 💡 Por que estudar Hardware?
+
+Independentemente da área escolhida em Tecnologia da Informação, compreender hardware é importante.
+
+Esse conhecimento é utilizado por profissionais que trabalham com:
+
+- suporte técnico;
+- manutenção;
+- infraestrutura;
+- redes;
+- servidores;
+- segurança da informação;
+- desenvolvimento de software;
+- computação em nuvem;
+- inteligência artificial;
+- Internet das Coisas (IoT).
+
+Mesmo programadores precisam entender como o hardware executa seus programas.
+
+---
+
+# ❌ Mitos Comuns
+
+## "Hardware é apenas o gabinete."
+
+Falso.
+
+Todo componente físico faz parte do hardware.
+
+---
+
+## "Notebook não possui hardware."
+
+Falso.
+
+Ele possui os mesmos componentes de um computador desktop, porém integrados em um único equipamento.
+
+---
+
+## "Smartphones não são computadores."
+
+Também é falso.
+
+Eles possuem processador, memória, armazenamento, sistema operacional e diversos dispositivos de entrada e saída.
+
+---
+
+## "Quanto mais caro o computador, melhor."
 
 Nem sempre.
 
-O desempenho depende também do processador, do armazenamento, da placa de vídeo e da otimização do software.
+O ideal é escolher componentes adequados ao tipo de utilização.
 
----
-
-### "Todo computador precisa de placa de vídeo dedicada."
-
-Falso.
-
-Muitos computadores utilizam gráficos integrados ao processador, suficientes para atividades como estudos, navegação e trabalho em escritório.
-
----
-
-### "Computadores mais novos nunca apresentam problemas."
-
-Falso.
-
-Qualquer equipamento pode apresentar falhas devido a desgaste, defeitos de fabricação, superaquecimento, mau uso ou problemas elétricos.
+Um computador para escritório possui necessidades diferentes de um computador para edição de vídeo ou jogos.
 
 ---
 
@@ -369,25 +404,25 @@ Qualquer equipamento pode apresentar falhas devido a desgaste, defeitos de fabri
 
 Ao utilizar equipamentos de informática:
 
-- mantenha o computador limpo;
-- evite impactos físicos;
-- proteja o equipamento contra líquidos;
-- utilize estabilização elétrica quando apropriado;
+- mantenha o equipamento limpo;
+- evite impactos;
+- proteja contra líquidos;
+- mantenha boa ventilação;
 - desligue corretamente o sistema;
-- mantenha boa ventilação ao redor do equipamento;
-- realize manutenções preventivas quando necessário.
+- utilize componentes compatíveis;
+- realize manutenção preventiva quando necessário.
 
-Esses cuidados ajudam a aumentar a vida útil dos componentes.
+Esses cuidados ajudam a prolongar a vida útil do equipamento.
 
 ---
 
 # 📋 Resumo
 
-Hardware corresponde à parte física de um sistema computacional.
+Hardware corresponde à parte física de qualquer sistema computacional.
 
-Ele inclui todos os componentes responsáveis por receber dados, processar informações, armazenar arquivos e apresentar resultados.
+Ele é formado por diversos componentes especializados que trabalham em conjunto para receber dados, executar instruções, armazenar informações e apresentar resultados.
 
-Compreender o funcionamento do hardware é indispensável para diagnosticar problemas, escolher equipamentos adequados e entender como os computadores executam suas tarefas.
+Compreender esses fundamentos é indispensável para qualquer profissional da área de Tecnologia da Informação e servirá de base para o estudo detalhado de cada componente nas próximas aulas.
 
 > [!TIP]
-> Agora que você compreende o conceito de hardware, no próximo capítulo estudaremos detalhadamente os principais componentes internos e externos que formam um computador moderno.
+> No próximo capítulo estudaremos detalhadamente os principais componentes internos e externos de um computador moderno, compreendendo suas funções e como eles trabalham em conjunto para executar programas e processar informações.
